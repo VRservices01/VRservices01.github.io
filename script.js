@@ -1,4 +1,4 @@
-console.log('VR House Cleaning Services site loaded.'); 
+console.log('SRI MANIKANTA HOUSE CLEANING site loaded.'); 
 
 // Testimonial slider logic
 (function() {
